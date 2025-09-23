@@ -1,0 +1,95 @@
+@article{shor1995scheme,
+  title={Scheme for reducing decoherence in quantum computer memory},
+  author={Shor, Peter W},
+  journal={Physical Review A},
+  volume={52},
+  number={4},
+  pages={R2493},
+  year={1995},
+  publisher={APS}
+}
+
+@article{steane1996error,
+  title={Error correcting codes in quantum theory},
+  author={Steane, Andrew M},
+  journal={Physical Review Letters},
+  volume={77},
+  number={5},
+  pages={793},
+  year={1996},
+  publisher={APS}
+}
+
+@article{fowler2012surface,
+  title={Surface codes: Towards practical large-scale quantum computation},
+  author={Fowler, Austin G and Mariantoni, Matteo and Martinis, John M and Cleland, Andrew N},
+  journal={Physical Review A},
+  volume={86},
+  number={3},
+  pages={032324},
+  year={2012},
+  publisher={APS}
+}
+
+@article{gottesman1997stabilizer,
+  title={Stabilizer codes and quantum error correction},
+  author={Gottesman, Daniel},
+  journal={arXiv preprint quant-ph/9705052},
+  year={1997}
+}
+
+@article{nielsen2002quantum,
+  title={Quantum computation and quantum information},
+  author={Nielsen, Michael A and Chuang, Isaac L},
+  journal={American Journal of Physics},
+  volume={70},
+  number={5},
+  pages={558--559},
+  year={2002},
+  publisher={American Association of Physics Teachers}
+}
+
+@article{preskill2018quantum,
+  title={Quantum {C}omputing in the {NISQ} era and beyond},
+  author={Preskill, John},
+  journal={Quantum},
+  volume={2},
+  pages={79},
+  year={2018}
+}
+
+@article{lidar2013quantum,
+  title={Quantum error correction},
+  author={Lidar, Daniel A and Brun, Todd A},
+  journal={Cambridge University Press},
+  year={2013}
+}
+
+@article{terhal2015quantum,
+  title={Quantum error correction for quantum memories},
+  author={Terhal, Barbara M},
+  journal={Reviews of Modern Physics},
+  volume={87},
+  number={2},
+  pages={307},
+  year={2015},
+  publisher={APS}
+}
+
+@article{campbell2017roads,
+  title={Roads towards fault-tolerant universal quantum computation},
+  author={Campbell, Earl T and Terhal, Barbara M and Vuillot, Christophe},
+  journal={Nature},
+  volume={549},
+  number={7671},
+  pages={172--179},
+  year={2017},
+  publisher={Nature Publishing Group}
+}
+
+@article{caspian2025qec,
+  title={{QEC-C}: Low-Power Quantum Error Correction with New Scaling Law},
+  author={Caspian, Ethan A},
+  journal={Preprint},
+  year={2025}
+}
