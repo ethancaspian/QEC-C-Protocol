@@ -1,0 +1,9 @@
+# Validation Data for QEC-C Protocol
+# Date: September 25, 2025
+# Columns: Qubits, Fidelity_GHZ (%), Fidelity_5Qubit (%), Beta_Value
+3, 99.99, 99.95, 0.788
+5, 99.98, 99.94, 1.234
+7, 99.97, 99.93, 1.935
+9, 99.96, 99.92, 3.034
+# Noise Models: Amplitude Damping, Phase Damping, Correlated, Non-Markovian
+# Note: Beta values approximate beta(n) = 0.788 exp(0.360n)
